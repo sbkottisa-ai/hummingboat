@@ -52,6 +52,8 @@ def main():
         "cachetools>=5.3.1",
         "commlib-py>=0.11",
         "cryptography>=41.0.2",
+        "crawl4ai<0.8.0",
+        "django==6.0.1",
         "eth-account>=0.13.0",
         "injective-py",
         "msgpack-python",
